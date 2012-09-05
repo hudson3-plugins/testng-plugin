@@ -9,7 +9,7 @@
 
     <groupId>org.hudsonci.plugins</groupId>
     <artifactId>testng-plugin</artifactId>
-    <version>0.32-h-1</version>
+    <version>0.32-h-2-SNAPSHOT</version>
     <packaging>hpi</packaging>
     <name>TestNG Results Plugin</name>
 
